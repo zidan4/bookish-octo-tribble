@@ -1,6 +1,6 @@
 # bookish-octo-tribble
 
-machine learning
+machine learning.
 
 
 confusion matrix algorithm
