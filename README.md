@@ -3,4 +3,4 @@
 Machine Learning.
 
 
-confusion matrix algorithm.
+Confusion Matrix Algorithm.
